@@ -10,7 +10,7 @@ public class Question5 {
 		int n1 = sc.nextInt();
 		int n2 = sc.nextInt();
 		
-		if ( n1 % 10 == n2 % 10)
+		if( n1 % 10 == n2 % 10)
 		{
 			System.out.println("True");
 		}

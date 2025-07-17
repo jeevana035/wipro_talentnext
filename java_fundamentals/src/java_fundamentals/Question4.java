@@ -8,7 +8,7 @@ public class Question4 {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		
-		if ( n > 0)
+		if(n > 0)
 		{
 			System.out.println("The number is positive");
 		}
