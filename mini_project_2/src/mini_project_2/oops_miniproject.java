@@ -110,7 +110,7 @@ public class oops_miniproject
             System.out.println("6. Exit");
             System.out.print("Enter your choice (1-6): ");
             int choice = sc.nextInt();
-            sc.nextLine(); // consume newline
+            sc.nextLine(); 
 
             switch (choice) {
                 case 1:
